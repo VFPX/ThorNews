@@ -1,8 +1,7 @@
 
 # Thor News Archives
 
-
-**[2023-04-09 : Go To Definition Enhancements #2 ](Item_49.md)** 
+**[2023-04-08 : Got Comments, Suggestions, or Bug Reports? ](Item_49.md)** 
 
 **[2023-02-04 : Go To Definition Enhancements ](Item_48.md)** 
 
@@ -94,5 +93,4 @@
 
 ---
 
-
-Last changed: _2023-04-03_ ![Picture](Images/vfpxpoweredby_alternative.gif)
+![Picture](Images/vfpxpoweredby_alternative.gif)
