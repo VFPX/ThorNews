@@ -30,5 +30,6 @@ News Items are accessed two different ways:
 ## Helping with this project
 See [How to contribute to ThorNews](.github/CONTRIBUTING.md) for details on how to help with this project.
 
-Last changed: _2023-04-09_ 
+Last changed: _2023-04-07_ 
+
 ![Picture](./NewsItems/Images/vfpxpoweredby_alternative.gif)
