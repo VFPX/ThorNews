@@ -19,9 +19,9 @@ News Items are accessed two different ways:
 
 
 ---
-### **[News Archives ](Archives.md)** 
+### **[News Archives ](NewsItems/Archives.md)** 
 
-### **[Thor Videos ](Thor_videos.md)** 
+### **[Thor Videos ](NewsItems/Thor_videos.md)** 
 
 ### **[VFPX Home Page ](http://vfpx.org)** 
 
