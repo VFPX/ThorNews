@@ -1,6 +1,8 @@
 
 # Thor News Archives
 
+**[2023-09-02 : Quick Access Menu ](Item_52.md)** 
+
 **[2023-08-19 : Bug Reports and Suggestions ](Item_51.md)** 
 
 **[2023-04-15 : More Go To Definition Enhancements ](Item_50.md)** 
