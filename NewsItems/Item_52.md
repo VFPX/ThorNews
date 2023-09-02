@@ -4,9 +4,11 @@
 **Quick Access Menu** 
 ---
 
-### #52, 2023-09-02 (Pre-Release)
+### #52, 2023-09-02
 
-The Thor Quick Access Menu, installed by Thor tool "Install Quick Access Menu", provides easy access to a host of the most used Thor tools, all accessible from one place.
+The Quick Access Menu is a personal list of favorite tools, developed over time, in the dev shop where Jim Nelson and Steve Howie work.
+
+It is installed by Thor tool "Install Quick Access Menu" and provides easy access to a host of the most used Thor tools, all accessible from one place.  The tools are grouped into convenient categories that make them easy to find and make it easy to find related tools.
 
 The Quick Access Menu is accessed from either the system menu pad (as shown below) or from a user-assigned hot key.
  
@@ -46,3 +48,15 @@ To un-install, copy all the files from that sub-folder back into the Tables fold
 The Tables folder can be opened here:
 
 ![](Images/QuickAccessGoToTablesFolder.png)
+
+---
+
+### **[News Archives ](Archives.md)** 
+
+### **[Thor Videos ](Thor_videos.md)** 
+
+### **[VFPX Home Page ](http://vfpx.org)** 
+
+---
+
+![Picture](Images/vfpxpoweredby_alternative.gif)
