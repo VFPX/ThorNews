@@ -1,6 +1,8 @@
 
 # Thor News Archives
 
+**[2023-09-16 : The Hidden Context menu ](Item_53.md)** 
+
 **[2023-09-02 : Quick Access Menu ](Item_52.md)** 
 
 **[2023-08-19 : Bug Reports and Suggestions ](Item_51.md)** 

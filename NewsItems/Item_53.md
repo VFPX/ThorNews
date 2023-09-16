@@ -4,7 +4,7 @@
 **The Hidden Context menu** 
 ---
 
-### #53, 2023-09-09 (Pre-Release)
+### #53, 2023-09-16
 
 ### Why a context menu for individual Thor Tools?
 One of the difficulties working with Thor, a sprawling application that's more than a dozen years old, is how to find the documentation for any its many tools (now numbering close to 200).  Until now, Thor has not provided a consistent or reliable way to do so.
