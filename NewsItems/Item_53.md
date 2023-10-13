@@ -28,8 +28,6 @@ This context menu is accessed by pressing the shift key when selecting an item f
 * using the access key for an item (the underlined character)
 * or navigating to the item and pressing [Enter]
 
-*Note: The Ctrl key can also be used, except it does not work for the middle option (using the access key).*
-
 The context menu contains items that relate specifically to the selected tool. While all of these features are available elsewhere in Thor, they are concentrated here to make them all visible and readily accessible in a single place.
 
 Here's a sample context menu.  Note that some of the items shown here might not appear, depending on the tool selected.
@@ -38,6 +36,7 @@ Here's a sample context menu.  Note that some of the items shown here might not 
 
 #### Help
 This option displays the available documentation for the selected tool. Many tools will take you to the web page for that tool and the remainder will use a simple form.
+
 
 #### Bug Reports / Suggestions 
 This option opens the issue page in GitHub for the project that the tool belongs to so that you can report bugs, add suggestions, or read and comment on any current issues.
@@ -69,6 +68,11 @@ Opens the PRG for the tool in read-only mode.  You are prevented from modifying 
 #### Create Custom Version
 This opens a copy of the published PRG so that you can modify it for your own needs. By default, it will be saved in Thor’s “My Tools” folder, although you can save it in any folder in your path.  Thor uses the custom version, if available, instead of the published version.
 
+### Using Ctrl key to go directly to Help
+
+If you are interested in help for a tool, you can bypass the hidden menu by using the Ctrl key instead of the Shift key, by using either:
+* Ctrl + Click
+* or Ctrl +  [Enter]
 
 
 ---
